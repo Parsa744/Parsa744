@@ -1,3 +1,3 @@
 PhD in bioinformatics. 
 ML+Omics
-![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1lcTQ0OGZla3R1bTdsdnB3eWFkOXNoaWU1cjZjN2U0NnFoNTNqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
+![Demo]([https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1lcTQ0OGZla3R1bTdsdnB3eWFkOXNoaWU1cjZjN2U0NnFoNTNqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g5Z3piMW53Z284cDEwaHFtNHFqNXA4OGNlMjd0ODZoamE2NjVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCbhSnhug15F3Vs1K1/giphy.gif))
