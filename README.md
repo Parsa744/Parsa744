@@ -1,3 +1,5 @@
 PhD in bioinformatics. 
 ML+Omics
-![Demo](vCbhSnhug15F3Vs1K1.webp)
+<p align="center">
+  <img src="vCbhSnhug15F3Vs1K1.webp" width="500" />
+</p>
